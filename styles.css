@@ -90,11 +90,11 @@ td {
 
 th {
   background-color: #2c3e50;
-  color: white;
+  color: blue;
 }
 
 
 /* Table row lights up on hover pseudo-selector */
 tr:hover {
-  background-color: #e8f4fc;
+  background-color: #0000FF;
 }
