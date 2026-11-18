@@ -33,7 +33,7 @@ p {
 hr {
   border: none;
   height: 1px;
-  background-color: #ccc;
+  background-color: #4c00b0;
   margin: 20px 0;
 }
 
@@ -47,7 +47,7 @@ hr {
 
 
 .highlight {
-  background-color: #fff3cd;
+  background-color: #4c00b0;
   padding: 2px 5px;
 }
 
