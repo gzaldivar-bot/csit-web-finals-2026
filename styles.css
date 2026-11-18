@@ -61,14 +61,14 @@ hr {
 
 
 a {
-  color: #3498db;
+  color: #000000;
   text-decoration: none;
   font-weight: bold;
 }
 
 
 a:hover {
-  color: #1d6fa5;
+  color: #000000;
   text-decoration: underline;
 }
 
